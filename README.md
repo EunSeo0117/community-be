@@ -7,12 +7,12 @@
 <br>
 
 **🌍 Service URL**  
-https://colie.site
+<!---https://colie.site-->
 
 <br>
 
 🔗 Frontend Repository  
-https://github.com/100-hours-a-week/3-colie-han-community-FE
+https://github.com/EunSeo0117/Satellite-FE
 
 <br>
 
